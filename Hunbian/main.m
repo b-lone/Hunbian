@@ -6,7 +6,8 @@
 //
 
 #import <UIKit/UIKit.h>
-#import "AppDelegate.h"
+//#import "AppDelegate.h"
+#import "App/App-Swift.h"
 
 int main(int argc, char * argv[]) {
     NSString * appDelegateClassName;
